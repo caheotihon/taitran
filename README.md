@@ -1,5 +1,5 @@
-# Hi there, I'm [Tên Của Bạn]! 👋 
-### 🚀 Fullstack Developer | React & AI Enthusiast | Creator of T-Edu
+# Hi there, I'm Tran Van Tai! 👋 
+### 🚀 Fullstack Developer
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=435&lines=React+JS+Specialist;Node.js+Backend+Dev;AI+Integration+Expert;Building+T-Edu+Platform" alt="Typing SVG" />
@@ -12,8 +12,6 @@
 
 - **Frontend:** React 18, Vite, Tailwind CSS (UI mượt mà, responsive).
 - **Backend:** Node.js (Express 5), MongoDB, Socket.IO (Real-time notifications).
-- **AI Brain:** Tích hợp **Gemini & Groq** để tự động hóa việc tạo câu hỏi và phân tích kết quả.
-- **Features:** Flashcards, Dashboard quản trị, Theo dõi tiến độ học tập.
 
 ---
 
@@ -30,20 +28,20 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[caheotihon]&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[caheotihon]&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caheotihon&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caheotihon&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caheotihon&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/[https://www.linkedin.com/in/tai-tran-171114404/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[taitranbbi@gmail.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/t%C3%A0i-tr%E1%BA%A7n-171114404/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:taitranbbi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
